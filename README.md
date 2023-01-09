@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://images.squarespace-cdn.com/content/v1/5c4e5b6131d4df315bb28528/1592471255405-E4019ITEHR89GU2L02IK/image-asset.gif" alt="">
 <!--
 **Varadut1/Varadut1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
