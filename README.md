@@ -6,7 +6,7 @@
 <p>
   
 
-- 🔭 I’m currently working on: Hotel interface and Machine Learning Techniques
+- 🔭 I’m currently working on: Business Data Management Project and Machine Learning Techniques
 - 🌱 I’m currently learning: React and Java
 - 👯 I’m looking to collaborate on: Web development projects
 - 💬 Ask me about: Data Science and Statistics
