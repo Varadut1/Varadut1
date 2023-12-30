@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://images.squarespace-cdn.com/content/v1/5c4e5b6131d4df315bb28528/1592471255405-E4019ITEHR89GU2L02IK/image-asset.gif" style="width: 400px; height: 400px; border-radius:50%;" alt="">
+<img src="https://images.squarespace-cdn.com/content/v1/5c4e5b6131d4df315bb28528/1592471255405-E4019ITEHR89GU2L02IK/image-asset.gif" style="border-radius:10px; border:black solid 2px;width: 400px; height: 400px; border-radius:50%;" alt="">
 </p>
 
 <p>
