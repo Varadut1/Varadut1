@@ -6,8 +6,8 @@
 <p>
   
 
-- 🔭 I’m currently working on: Business Data Management Project and Machine Learning Techniques
-- 🌱 I’m currently learning: React and Java
+- 🔭 I’m currently working on: Gen-AI Project and Machine Learning Practices
+- 🌱 I’m currently learning: Express and Backend Practices
 - 👯 I’m looking to collaborate on: Web development projects
 - 💬 Ask me about: Data Science and Statistics
 <!-- - 📫 How to reach me: <img src=""
